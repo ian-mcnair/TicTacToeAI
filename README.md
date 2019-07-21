@@ -20,4 +20,4 @@
 
 ## Current State Images
 
-![alt text](http://url/to/img.png)
+![Current Status](https://github.com/ian-mcnair/TicTacToeAI/blob/master/current_state.PNG)
