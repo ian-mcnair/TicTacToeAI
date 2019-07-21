@@ -18,3 +18,6 @@
 - [ ] Fix this task list to make it less vague
 - [ ] ...to be continued...
 
+## Current State Images
+
+![alt text](http://url/to/img.png)
